@@ -1,0 +1,25 @@
+{
+  "name": "practice-using-modules-jada-h",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadahundley31/practice-using-modules-jada-h.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jadahundley31/practice-using-modules-jada-h/issues"
+  },
+  "homepage": "https://github.com/jadahundley31/practice-using-modules-jada-h#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "yargs": "^18.0.0"
+  }
+}
