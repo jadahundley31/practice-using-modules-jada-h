@@ -41,8 +41,8 @@ const yargs = require('yargs');
 const chalk = require('chalk');
 // Configure command line arguments using yargs
 const argv = yargs
-.option('city', {
-describe: 'City name used to retrieve weather information',
+    .option('city', {
+    describe: 'City name used to retrieve weather information',
 demandOption: true,
 type: 'string'
 })
